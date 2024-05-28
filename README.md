@@ -5,7 +5,6 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 
 - 📫 How to reach me: ademzouari55@gmail.com
 
-
 ### Skills
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
