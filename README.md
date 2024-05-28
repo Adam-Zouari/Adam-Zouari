@@ -22,7 +22,7 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
-![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adem-Zouari&show_icons=true&theme=gruvbox)          
+![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=@Adem-Zouari&show_icons=true&theme=gruvbox)          
 <!--
 **Adem-Zouari/Adem-Zouari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
