@@ -24,11 +24,7 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 
 
 
-[![](https://raw.githubusercontent.com/Adem-Zouari/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/Adem-Zouari/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adem-Zouari/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/Adem-Zouari/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adem-Zouari/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/Adem-Zouari/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adem-Zouari/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/Adem-Zouari/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adem-Zouari/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/Adem-Zouari/github-profile-summary-cards)
+
 
 
      
