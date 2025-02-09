@@ -30,7 +30,7 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" width="40px" style="vertical-align: middle; padding-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40px" style="vertical-align: middle; padding-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="40px" style="vertical-align: middle; padding-right: 15px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="40px" style="vertical-align: middle; padding-left: 50px;" />
 </p>
 
 
