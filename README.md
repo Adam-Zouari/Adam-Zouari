@@ -1,7 +1,7 @@
 # Adam Zouari 👋
 
 ## **Data Science Engineering Student**
-I am a dedicated Data Science Engineering student with a strong academic background in statistics, probability, and a variety of programming languages including R, Python, Java, C, and C++. Additionally, I have experience with HTML and CSS, JavaScript and REACT. I am proficient in SQL, NoSQL and PL/SQL. I also have foundational knowledge of AWS and Azure cloud services and core AWS and Azure architecture principles. I am also proficient in BIG DATA framworks like Apache Hadoop,Spark and Hive and i am also experienced in Hadoop Cluster Administration.
+I am a dedicated Data Science Engineering student with a strong foundation in statistics, probability, and programming languages such as R, Python, Java, C, and C++. I have experience in web technologies like HTML, CSS, JavaScript, and React, along with proficiency in SQL, NoSQL, and PL/SQL. Additionally, I have a solid understanding of AWS and Azure cloud services, including core architectural principles. My expertise extends to Big Data frameworks like Apache Hadoop, Spark, and Hive, with hands-on experience in Hadoop Cluster Administration.
 
 - 📫 How to reach me: ademzouari55@gmail.com
 
