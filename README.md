@@ -24,14 +24,17 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 <img align="left" alt="C" width=50px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
 
 
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" />
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" />
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" alt="Hadoop" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="60px" style="vertical-align: middle; padding-right: 10px;" />
+</p>
+
 
 
 
