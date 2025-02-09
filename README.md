@@ -6,30 +6,33 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 - 📫 How to reach me: ademzouari55@gmail.com
 
 ### Skills
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="C" width=30px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C" width=30px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="C" width=50px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" />
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" />
-<img align="left" alt="C" width=70px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="GitHub" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" alt="React" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" alt="PHP" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" alt="Hadoop" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="50px" style="vertical-align: middle; padding-right: 10px;" />
+</p>
+
 
 
 
