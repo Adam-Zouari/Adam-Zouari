@@ -21,7 +21,7 @@ I am a dedicated Data Science Engineering student with a strong academic backgro
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
+<img align="left" alt="C" width=60px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" />
 <img align="left" alt="C" width=40px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" />
