@@ -1,58 +1,70 @@
-# Adam Zouari 👋
+<div align="left">
+  <a href="https://www.linkedin.com/in/adam-zouari-263788224/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-## **Data Science Engineering Student**
-I am a dedicated Data Science Engineering student with a strong foundation in statistics, probability, and programming languages such as R, Python, Java, C, and C++. I have experience in web technologies like HTML, CSS, JavaScript, and React, along with proficiency in SQL, NoSQL, and PL/SQL. Additionally, I have a solid understanding of AWS and Azure cloud services, including core architectural principles. My expertise extends to Big Data frameworks like Apache Hadoop, Spark, and Hive, with hands-on experience in Hadoop Cluster Administration.
+###
 
-- 📫 How to reach me: ademzouari55@gmail.com
+<h1 align="center">hey there 👋</h1>
 
-### Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="GitHub" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" alt="React" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" alt="PHP" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" alt="Hadoop" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" width="40px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40px" style="vertical-align: middle; padding-right: 15px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="40px" style="vertical-align: middle; padding-right: 15px;" />
-</p>
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
+<p align="left">I'm Adam Zouari from Tunisia.<br><br>- 🔭 I’m a Data Science Engineering Student.<br>- ⚡ In my free time I learn more about Math.</p>
 
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
-     
-<!--
-![Adem's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adem-Zouari&&show_icons=true&theme=dark) 
-**Adem-Zouari/Adem-Zouari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">🔥   My Stats :</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ademzouari55@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam-Zouari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam-Zouari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
