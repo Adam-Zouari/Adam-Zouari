@@ -63,10 +63,29 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Adam-Zouari?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Adam-Zouari?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/repos/Adam-Zouari?style=for-the-badge&logo=github" />
+  <img src="https://metrics.lecoq.io/Adam-Zouari
+    ?template=classic
+    &base.header=0
+    &base.activity=1
+    &base.community=1
+    &base.repositories=1
+    &base.metadata=1
+    &isocalendar=1
+    &isocalendar.duration=half-year
+    &stars=1
+    &config.timezone=Africa/Tunis" />
 </div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/Adam-Zouari
+    ?template=classic
+    &languages=1
+    &languages.layout=compact
+    &languages.details=percentage
+    &languages.limit=5
+    &languages.ignored=javascript" />
+</div>
+
 
 
 ###
