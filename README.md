@@ -63,29 +63,9 @@
 ###
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Adam-Zouari
-    ?template=classic
-    &base.header=0
-    &base.activity=1
-    &base.community=1
-    &base.repositories=1
-    &base.metadata=1
-    &isocalendar=1
-    &isocalendar.duration=half-year
-    &stars=1
-    &config.timezone=Africa/Tunis" />
+  <img height="200" src="https://metrics.lecoq.io/Adam-Zouari?template=classic&base.activity=1&isocalendar=1&stars=1" />
+  <img height="200" src="https://metrics.lecoq.io/Adam-Zouari?template=classic&languages=1&languages.layout=compact&languages.limit=5&languages.ignored=javascript" />
 </div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Adam-Zouari
-    ?template=classic
-    &languages=1
-    &languages.layout=compact
-    &languages.details=percentage
-    &languages.limit=5
-    &languages.ignored=javascript" />
-</div>
-
 
 
 ###
